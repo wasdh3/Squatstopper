@@ -4,26 +4,23 @@ est un système intelligent de gestion d’occupation pour cabines d’essayage,
 
 Ce projet est parfait pour prévenir les abus de temps dans les cabines, améliorer la rotation des utilisateurs et obtenir des statistiques utiles sur l’usage.
 
-
-
-
-![Uploading FF36DF97-D0C8-469F-B5E6-8BAAECC64A95.jpeg…]()
-![C186F1CE-C60D-478F-B71A-85365C7DCEF8](https://github.com/user-attachments/assets/b0fd9550-8d1a-4013-aac5-8fb7434f4ba9)
-
-
-
+![C186F1CE-C60D-478F-B71A-85365C7DCEF8](https://github.com/user-attachments/assets/2ed16eb4-e7e7-412f-8128-1f6a8c074a50)
 
 
 
 
 ⚙️ Composants utilisés
+
+
 	•	🔌 Microcontroleur Arduino UNICA
 	•	📷 Capteur PIR
 	•	🧠 Écran OLED I2C 128x64
 	•	🔊 Buzzer actif
 	•	🔌 Breadboard + câbles Dupont
 
+
 🧠 Fonctionnalités
+
 	•	🔎 Détection de mouvement : grâce au capteur PIR
 	•	⏱️ Minuteur intelligent : calcule le temps passé dans la cabine
 	•	📊 Compteur d’entrées : incrémenté uniquement en cas de présence prolongée
@@ -34,6 +31,7 @@ Ce projet est parfait pour prévenir les abus de temps dans les cabines, amélio
 	•	💤 Économie d’énergie : extinction automatique de l’écran OLED après inactivité
  
 🛠️ Schéma de câblage
+
 	•	PIR :
 	•	VCC → A2
 	•	OUT → A3
